@@ -1,6 +1,6 @@
 Overview
 
-In this task, I created a personal profile webpage using HTML5 and focused on writing clean, meaningful, and well-structured markup. The goal was to understand how real websites are structured using semantic HTML elements instead of generic <div> tags.
+In this task, I created a personal profile webpage using HTML5 and focused on writing clean, meaningful, and well-structured markup. The goal was to understand how real websites are structured using semantic HTML elements instead of generic tags.
 
 What I Did
 
