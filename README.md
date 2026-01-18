@@ -6,11 +6,11 @@ What I Did
 
 Created a project folder with an index.html file following proper naming conventions.
 Wrote the full HTML boilerplate manually to understand document structure.
-Used semantic tags like <header>, <nav>, <section>, <article>, and <footer> to logically organize the content.
+Used semantic tags to logically organize the content.
 Added personal information such as my name, bio, skills, education, projects, and experience using headings, paragraphs, and lists.
 Included internal navigation using anchor links to jump between sections on the same page.
-Used <article> elements for projects and experience to keep each item self-contained.
-Added comments (during development) to understand why semantic elements are better than <div> tags.
+Used elements for projects and experience to keep each item self-contained.
+Added comments (during development) to understand why semantic elements are better than tags.
 
 What I Learned
 How semantic HTML improves readability, accessibility, and structure.
